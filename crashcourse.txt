@@ -1,0 +1,16 @@
+and / or somente para booleanos
+
+controle de fluxo
+cond - 
+
+
+rem(n,n) - Resto da divisao
+
+aridade - quantidade de argumento que a função recebe
+
+h Regex
+
+h Enum
+h Enum.reduce
+h Enum.take
+
